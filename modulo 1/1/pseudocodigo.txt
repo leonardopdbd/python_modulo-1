@@ -1,0 +1,11 @@
+Início
+    Solicitar ao usuário um valor para n (1 <= n <= 9)
+    Ler n
+    
+    digito1 <- n - 1
+    digito2 <- 10 - n
+    
+    resultado <- (digito1 * 10) + digito2
+    
+    Imprimir "O resultado de 9 x " + n + " é " + resultado
+Fim

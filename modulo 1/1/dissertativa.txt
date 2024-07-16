@@ -1,0 +1,16 @@
+A multiplicação do número 9 por qualquer valor 
+𝑛
+n (onde 
+𝑛
+n é um inteiro entre 1 e 9) pode ser simplificada em dois passos:
+
+Subtrair 1 do número 
+𝑛
+n para obter o primeiro dígito do resultado (dígito das dezenas).
+Subtrair 
+𝑛
+n de 10 para obter o segundo dígito do resultado (dígito das unidades).
+O resultado final da multiplicação é dado pela combinação desses dois dígitos:
+
+O primeiro dígito (dezena) é multiplicado por 10.
+O segundo dígito (unidade) é somado ao produto anterior.
